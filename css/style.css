@@ -1,0 +1,206 @@
+body {
+	font-family: 'Istok Web', sans-serif;
+	color: #4b3f55;
+}
+
+.bg-violet {
+	background: #775ba3;
+}
+
+.text-violet {
+	color: #775ba3;
+}
+
+.nav-link {
+	font-size: 14px;
+}
+
+.btn-user {
+	color: #fff;
+	background: transparent;
+	border: none;
+	font-size: 26px;
+	margin-left: auto;
+}
+
+#main-carousel .carousel-indicators [data-bs-target] {
+	width: 14px;
+	height: 14px;
+	border-radius: 50%;
+	background: transparent;
+	border: 2px solid #fff;
+	opacity: 1;
+}
+
+#main-carousel .carousel-indicators .active {
+	background: #fff;
+	border: none;
+	margin-top: 2px;
+}
+
+.person {
+	max-width: 360px;
+}
+
+.person p {
+	font-size: 14px;
+}
+
+.person h5 {
+	font-size: 15px;
+}
+
+.person h5 span {
+	font-size: 12px;
+}
+
+.fc-bg {
+	background: #3b5998;
+	border: none;
+}
+
+.gogle-bg {
+	background: #d14333;
+	border: none;
+}
+
+.card-icon-bg {
+	background: #ea4c88;
+	border: none;
+}
+
+.tw-bg {
+	background: #00aced;
+	border: none;
+}
+
+.card-icon-bg:hover {
+	background-color: #ef6197;
+}
+
+.features-block {
+	margin-top: 120px;
+}
+
+.features-block img {
+	max-width: 100%;
+	width: 550px;
+}
+
+.features-block h2 {
+	font-size: 40px;
+	padding-top: 100px;
+	margin: 0;
+	padding-bottom: 100px;
+}
+
+.features-block h5 {
+	font-size: 35px;
+	line-height: 47px;
+	max-width: 280px;
+	width: 100%;
+}
+
+.lire-btn:active {
+	background: inherit;
+}
+
+.lire-btn {
+	border: #fff solid 3px;
+	border-radius: 0;
+	padding: 8px 58px;
+	font-weight: normal;
+	font-size: 18px;
+	margin-bottom: 150px;
+	clear: right;
+	max-width: 190px;
+}
+
+.subtitle {
+	max-width: 600px;
+}
+
+
+.feature-img1 {
+	margin: 0;
+	margin-top: -200px;
+	max-width: 550px;
+	width: 100%;
+}
+
+.Customize-h5 {
+	max-width: 100%;
+
+}
+
+.clientsh4 {
+	font-size: 40px;
+	color: #775ba3;
+	margin-top: 67px;
+}
+
+.coment-marker {
+	font-size: 40px;
+	color: #91c5a9;
+	font-style: italic;
+}
+
+.liberte-title h3 {
+	font-size: 40px;
+	margin-bottom: 40px;
+	margin-top: 100px;
+}
+
+.liberte-title p {
+	font-size: 23px;
+	color: #4b3f55;
+}
+
+hr {
+	color: #91c5a9;
+	margin-top: 130px;
+}
+
+.liberte-title h2 {
+	font-size: 40px;
+	margin-top: 110px;
+}
+
+.clients-block img {
+	margin-right: 50px;
+	border: 4px solid #91c5a9;
+	border-radius: 50%;
+	padding: 8px;
+}
+
+.clients-block {
+	background-color: #fcfcfc;
+}
+
+.clients-block p {
+	margin-left: 50px;
+	display: block;
+	max-height: 900px;
+	font-size: 27px;
+	color: #4b3f55;
+}
+
+.name-coment {
+	color: #7e63a8;
+	font-size: 16px;
+}
+
+.footer {
+	margin-top: 100px;
+	background-color: #53a57f;
+	min-height: 80px;
+	padding-bottom: 16px;
+	padding-top: 36px;
+}
+
+.footer p {
+	color: #fff;
+	font-size: 16px;
+	width: 100%;
+	margin: 0;
+}
