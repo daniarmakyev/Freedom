@@ -73,7 +73,3 @@
 ```
 ![logo](images/header-pic-md.PNG)
 
-## Команда проекта
-
-
-- [Макыев Данияр] — Front-End developer
